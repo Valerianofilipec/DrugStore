@@ -1,6 +1,6 @@
 # DrugStore
 Meu Trabalho da Cadeira de Programação Orientada a Objectos.
 
-Obs: Enunciado desponivel como ficheiro "POO - TRABALHO PRÁTICO.pdf".
+Obs: Enunciado desponivel no ficheiro "POO - TRABALHO PRÁTICO.pdf".
 
 Valeriano Filipe Calológio
